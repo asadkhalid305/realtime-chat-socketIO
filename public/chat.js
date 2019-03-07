@@ -1,6 +1,6 @@
 // Make connection
-// var socket = io.connect(window.location.hostname);
-var socket = io.connect('http://192.168.88.51:4000');
+var socket = io.connect(window.location.hostname);
+// var socket = io.connect('http://192.168.88.51:4000');
 
 
 // Query DOM
